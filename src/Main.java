@@ -1,8 +1,8 @@
-import entity.Booking;
-import entity.Customer;
-import entity.MusicShow;
-import entity.TheaterPlay;
-import repository.CsvRepository;
+import cli.entity.Booking;
+import cli.entity.Customer;
+import cli.entity.MusicShow;
+import cli.entity.TheaterPlay;
+import cli.repository.CsvRepository;
 
 import java.time.LocalDate;
 import java.util.Scanner;
